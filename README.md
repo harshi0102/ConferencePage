@@ -1,3 +1,5 @@
+# ConferencePage
+Conference Page
 <a name="readme-top"></a>
 
 <h1>Capstone-project---Conference-page</h1>
@@ -78,7 +80,7 @@ Clone this repository to your desired folder:
 - Go to the repository folder using command prompt cd.
 
 - Install the dev dependencies for linters run npm install.
---->
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
