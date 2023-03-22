@@ -36,6 +36,9 @@ Conference Page
 
 [Live Demo](https://harshi0102.github.io/ConferencePage/)
 
+<!--Video-->
+## Video Presentation <a name="video-presentation"></a>
+[Click Here for Video Presentation](https://www.loom.com/share/649df900ce3b4c7c9dbd0192258ac188)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
