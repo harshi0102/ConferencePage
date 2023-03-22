@@ -1,5 +1,3 @@
-# ConferencePage
-Conference Page
 <a name="readme-top"></a>
 
 <h1>Capstone-project---Conference-page</h1>
@@ -36,8 +34,12 @@ Conference Page
 
 [Live Demo](https://harshi0102.github.io/ConferencePage/)
 
+
+<!--Video-->
 ## Video Presentation <a name="video-presentation"></a>
 [Click Here for Video Presentation](https://www.loom.com/share/649df900ce3b4c7c9dbd0192258ac188)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -81,7 +83,7 @@ Clone this repository to your desired folder:
 - Go to the repository folder using command prompt cd.
 
 - Install the dev dependencies for linters run npm install.
-
+--->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
