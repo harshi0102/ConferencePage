@@ -40,15 +40,15 @@ li img {
   display: flex;
 }
 
-.microo a {
+.social-media-icon a {
   color: var(--color-white);
 }
 
-.header .nav1 {
+.header .navigation {
   display: none;
 }
 
-.header .heads-all .menu {
+.header .allheading .menu {
   color: var(--color-lightblack);
   width: -webkit-fit-content;
   width: -moz-fit-content;
@@ -105,7 +105,7 @@ footer .foot-1 ul {
   padding: 30px;
 }
 
-.header .heads-all ul {
+.header .allheading ul {
   display: none;
 }
 
@@ -525,7 +525,7 @@ footer .foot-last h2 {
     z-index: 10;
   }
 
-  .header .nav1 {
+  .header .navigation {
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -544,7 +544,7 @@ footer .foot-last h2 {
     padding: 30px;
   }
 
-  .header .nav1 ul {
+  .header .navigation ul {
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -557,14 +557,14 @@ footer .foot-last h2 {
     display: none !important;
   }
 
-  .header .heads-all {
+  .header .allheading {
     width: 100%;
     display: flex;
     flex-direction: row;
     background-color: rgb(254, 254, 255);
   }
 
-  .header .heads-all ul {
+  .header .allheading ul {
     padding: 0.3rem 0;
     width: 100%;
     display: flex;
@@ -574,7 +574,7 @@ footer .foot-last h2 {
     justify-content: space-between;
   }
 
-  .header .heads-all ul .logo-img {
+  .header .allheading ul .logo-img {
     width: 40%;
     display: flex;
     justify-content: center;
@@ -589,7 +589,7 @@ footer .foot-last h2 {
     padding: 1rem;
   }
 
-  .header .heads-all ul li {
+  .header .allheading ul li {
     font-size: 15px;
     padding: 0.6rem;
   }
@@ -607,7 +607,7 @@ footer .foot-last h2 {
     background-image: url(./important-img/image-bg-desk.png);
   }
 
-  .header .heads-all ul li img {
+  .header .allheading ul li img {
     width: 10rem;
     height: 3.9rem;
   }
@@ -625,7 +625,7 @@ footer .foot-last h2 {
     color: var(--color-white);
   }
 
-  .header .heads-all ul li a h2 {
+  .header .allheading ul li a h2 {
     color: #6d6a6a;
   }
 
@@ -645,14 +645,14 @@ footer .foot-last h2 {
     width: 100%;
   }
 
-  .header .heads-all ul .campaign {
+  .header .allheading ul .campaign {
     border: 4px solid #ec5242;
     display: flex;
     font-size: 15px;
     padding: 5px;
   }
 
-  .header .heads-all ul .campaign a h2 {
+  .header .allheading ul .campaign a h2 {
     color: #ec5242;
   }
 
